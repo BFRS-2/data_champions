@@ -1,0 +1,3 @@
+[console_scripts]
+jira = jira_tracker_bot.cli:main
+
